@@ -1,0 +1,2 @@
+# chatGPT-Academic-Prompt
+ 
