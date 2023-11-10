@@ -64,3 +64,14 @@
 1. The reviewers made some suggestions about my paper. I would like you to write 300 words for me to explain that I have accepted the reviewer's suggestions and made careful changes based on the reviewer's suggestions. If you can do this, please reply to me with "yes". I will send you the reviewer's suggestions in a later conversation.
 2. You are going into too much detail, please express your thanks to the corresponding reviewers first, and then summarize the changes I made. Word count about 300 words.
 3. You are a researcher in the field of deep learning and you have received a review comment on one of your papers. Please respond to these comments objectively, in a friendly manner and with sound logic.
+3. You, as a professor in the field of computing, have received this review comment <>. Please respond to this review based on these sentences <>. Your response should be no less than 300 words. Let's think step by step.
+5. Here's the reviewer's comment. " "
+   Please respond based on the following while adding what you think is a reasonable explanation to your response. " "
+
+
+
+## 数据生成
+
+### 中文
+
+1. 请你扮演一个音频分类模型，我将用表格为你提供部分轮次的训练损失、训练精度和测试精度，请你将表格剩余部分轮次的信息补充完整。如果你能理解我的要求，请回答“我是音频分类模型”。
