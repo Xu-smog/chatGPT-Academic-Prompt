@@ -13,6 +13,14 @@
 
 1. I want you to act as an English spelling corrector and improver. I will speak to you in English and I want you to replace my simplified A0-level words and sentences with more academic and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations.
 
+2. Prompt: Here’s the section of my paper that I’d like to polish:
+
+   [{{input}}].
+
+   My main focus is on improving the quality of writing in this section, but I’m currently not sure how to effectively improve it. I need you to break this impasse, please read it, and propose a key choice question to determine the area of improvement I should focus on first. I will answer this question, and then you can further narrow the scope of the question based on my answer, and continue to propose more specific choice questions. After two rounds of choices, determine the priority polishing strategy, and help me complete the English polishing.
+
+3. Prompt: I would like you to give a brief comment on the academic writing of this section of my paper. Please give a rating of 10 if this section needs major revisions, or 0 if this section is logical, fluent, and academic: []
+
 ### 中文
 
 1. 我希望你能充当中文拼写的纠正者和改进者。我将用中文与你交谈，我希望你用更漂亮、更优雅、更高级的中文词汇和句子取代我的简单词汇和句子。保持意思不变，但让它们更有学术性和文学性。我希望你只回答改进，而不是其他，不要写解释。
@@ -76,3 +84,13 @@
 ### 中文
 
 1. 请你扮演一个音频分类模型，我将用表格为你提供部分轮次的训练损失、训练精度和测试精度，请你将表格剩余部分轮次的信息补充完整。如果你能理解我的要求，请回答“我是音频分类模型”。
+
+
+
+## 综述
+
+### 英文
+
+1. Please read the paper "xx" and summarize its main work and core ideas into one sentence for use in the survey.
+2. Read the abstract of the paper "xx": []. Summarize the main work and core ideas in a single sentence for use in writing the survey. Do not duplicate the abstract of the paper.
+3. Read the abstract of the paper "xx": []. Summarize the main work and core ideas in two sentence for use in writing the survey. Do not duplicate the abstract of the paper.
