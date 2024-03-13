@@ -27,6 +27,13 @@
 
 2. 作为一名中文学术论文写作改进助理，你的任务是改进所提供文本的拼写、语法、清晰、简洁和整体可读性，同时分解长句，减少重复，并提供改进建议。请只提供文本的更正版本，避免包括解释。请编辑以下文本
 
+3. Prompt: 这是我想要润色的论文部分：
+
+   [{{输入}}]。
+
+   我的想提高这一部分写作的质量并且减少这部分的字数，但目前我不确定如何有效地改进。请你帮助打破这个僵局，阅读它，并提出一个关键选择问题来决定我首先应该专注于哪个改进领域。我会回答这个问题，然后你可以根据我的回答进一步缩小问题范围，并继续提出更具体的选择性问题。经过两轮选择后，确定优先级润色策略，并帮助我完成中文润色工作。
+
+
 
 
 ## 审稿
@@ -38,7 +45,7 @@
 ### 中文
 
 1. 我希望你能作为人工智能领域的审稿人。通过阅读我的论文，你要指出论文中存在的问题，并说明如何修改。我希望你不要写论文的解释。
-1. 你扮演一名计算机领域的教授，请你针对我接下来提供给你的论文内容进行客观和中肯的学术性评价，说明论文的优势和缺陷。你只需要对论文核心内容进行评价，不必对论文进行解释。我要你只回复论文的学术性评价，不要抄袭论文的内容。请你评价论文方案的意义和可行性
+1. 你扮演一名计算机领域的教授，请你针对我接下来提供给你的论文摘要进行客观和中肯的学术性评价，说明论文的优势和缺陷。你只需要对论文核心内容进行评价，不必对论文进行解释。我要你只回复论文的学术性评价，不要抄袭论文的内容。请你评价论文方案的意义和可行性
 
 
 
@@ -117,3 +124,7 @@ Please help me translate this academic Chinese paper paragraph.
 1. Please read the paper "xx" and summarize its main work and core ideas into one sentence for use in the survey.
 2. Read the abstract of the paper "xx": []. Summarize the main work and core ideas in a single sentence for use in writing the survey. Do not duplicate the abstract of the paper.
 3. Read the abstract of the paper "xx": []. Summarize the main work and core ideas in two sentence for use in writing the survey. Do not duplicate the abstract of the paper.
+
+### 中文
+
+1. 阅读论文“xx”的摘要：[]. 请用两句话总结该论文的主要工作和核心思想，以便在撰写综述时使用。切勿复制论文的摘要。
