@@ -21,6 +21,11 @@
 
 3. Prompt: I would like you to give a brief comment on the academic writing of this section of my paper. Please give a rating of 10 if this section needs major revisions, or 0 if this section is logical, fluent, and academic: []
 
+4. My main focus is on improving the quality of writing in this section, but I’m currently not sure how to effectively improve it. I need you to break this impasse, please read my latex text, and propose a key choice question to determine the area of improvement I should focus on first. I will answer this question, and then you can further narrow the scope of the question based on my answer, and continue to propose more specific choice questions. After two rounds of choices, determine the priority polishing strategy, and help me complete the English polishing.
+   Here’s the section of my paper that I’d like to polish:
+
+3. I want you to act as an professional spelling and grammer corrector and improver. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary and improve my expression in the style of the journal Nature.
+
 ### 中文
 
 1. 我希望你能充当中文学术性写作的纠正者和改进者。我将用中文与你交谈，我希望你用更漂亮、更优雅、更高级的中文词汇和句子取代我的简单词汇和句子。保持意思不变，但让它们更有学术性和文学性。我希望你只回答改进，而不是其他，不要写解释。
@@ -51,7 +56,7 @@
 ### 中文
 
 1. 我希望你能作为人工智能领域的审稿人。通过阅读我的论文，你要指出论文中存在的问题，并说明如何修改。我希望你不要写论文的解释。
-1. 你扮演一名计算机领域的教授，请你针对我接下来提供给你的论文摘要进行客观和中肯的学术性评价，说明论文的优势和缺陷。你只需要对论文核心内容进行评价，不必对论文进行解释。我要你只回复论文的学术性评价，不要抄袭论文的内容。请你评价论文方案的意义和可行性
+1. 你扮演一名计算机领域的教授，请你针对我接下来提供给你的论文摘要进行客观和中肯的学术性评价，说明论文的优势和缺陷。你只需要对论文核心内容进行评价，不必对论文进行解释。我要你只回复论文的学术性评价，不要抄袭论文的内容。请你用两个段落评价论文方案的意义和可行性
 
 
 
