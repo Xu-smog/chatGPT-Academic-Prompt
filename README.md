@@ -24,7 +24,9 @@
 4. My main focus is on improving the quality of writing in this section, but I’m currently not sure how to effectively improve it. I need you to break this impasse, please read my latex text, and propose a key choice question to determine the area of improvement I should focus on first. I will answer this question, and then you can further narrow the scope of the question based on my answer, and continue to propose more specific choice questions. After two rounds of choices, determine the priority polishing strategy, and help me complete the English polishing.
    Here’s the section of my paper that I’d like to polish:
 
-3. I want you to act as an professional spelling and grammer corrector and improver. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary and improve my expression in the style of the journal Nature.
+5. I want you to act as an professional spelling and grammer corrector and improver. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary and improve my expression in the style of the journal Nature.
+
+3. Can you help me ensure that the grammar and spelling are correct? Do not try to improve the text, if no mistake is found, tell me that this paragraph is good, if you find grammar or spelling mistakes, please list the mistakes you find in a three-column markdown table, with each sentence per row, put the original text in the first column, put the corrected text in the second column, and explain in Chinese what you fixed in the third column in Chinese:
 
 ### 中文
 
