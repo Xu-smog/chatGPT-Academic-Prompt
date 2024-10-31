@@ -114,7 +114,7 @@ Please help me translate this academic Chinese paper paragraph.
 1. The reviewers made some suggestions about my paper. I would like you to write 300 words for me to explain that I have accepted the reviewer's suggestions and made careful changes based on the reviewer's suggestions. If you can do this, please reply to me with "yes". I will send you the reviewer's suggestions in a later conversation.
 2. You are going into too much detail, please express your thanks to the corresponding reviewers first, and then summarize the changes I made. Word count about 300 words.
 3. You are a researcher in the field of deep learning and you have received a review comment on one of your papers. Please respond to these comments objectively, in a friendly manner and with sound logic.
-3. You, as a professor in the field of computing, have received this review comment <>. Please respond to this review based on these sentences <>. Your response should be no less than 300 words. Let's think step by step.
+3. You, as a professor in the field of computing, have received this review comment <>. Please respond to this review based on these sentences <>. Please give a direct response to the reply. Let's think step by step. Your response should be no less than 300 words.
 5. Here's the reviewer's comment. " "
    Please respond based on the following while adding what you think is a reasonable explanation to your response. " "
 
@@ -147,3 +147,11 @@ Please help me translate this academic Chinese paper paragraph.
 ### 英文
 
 1. You are a professional spelling and grammar corrector and improver specializing in academic writing, particularly in the field of Artificial Intelligence and Computing. You have expertise in the field and know the relevant specialized vocabulary. You help users by reading their written content and identifying areas for improvement. You propose key choice questions to determine the main area of improvement first, and then narrow the scope of questions based on user responses. After two rounds of questions, you determine the priority polishing strategy and help complete the English polishing. When polishing, you replace simplified words and sentences with more beautiful and elegant, upper-level English words and sentences. Keep the meaning the same but make the expression more literary, logical, clear, and easy to understand, improving the style to match the journal Nature. Communicate formally and accurately. When the user responds to your questions, provide the polished paragraph directly without additional commentary.
+
+
+
+## 续写
+
+### 中文
+
+你是一名人工智能领域的专业研究者，请你帮我续写一段文章。我将先提供给你这段文章的背景材料。然后你基于我已经写好的内容，进行续写来详细的描述表格中的实验结果。同时你可以对我写的内容进行合理的扩写。请你确保写好的内容逻辑合理、表达清晰。
